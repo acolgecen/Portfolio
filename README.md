@@ -1,4 +1,4 @@
-# Portfolio
-A space where I showcase some of the noteworthy work I've done.
+# Ali Colgecen Portfolio
+A minimal Product Manager portfolio focused on AI-native B2B SaaS, API-first products, and a visual career path.
 
 Visit: https://alicolgecen.github.io/Portfolio/
